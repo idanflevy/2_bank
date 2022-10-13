@@ -32,7 +32,7 @@
             </div>
 
             <div class="logotext">
-                Meteors
+                Meteorsbank
             </div>
         </div>
 

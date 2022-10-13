@@ -11,7 +11,7 @@
 
                     <div class="row">
                         <div class="col-md-6 bg-login-form">
-                            <div class="" style="padding-top: 20px;">
+                            <div class="" style="padding-top: 40px;">
                                 <h6 style="text-align: center;font-size:12px;"> PLEASE ENTER YOUR CREDENTIALS </h6>
                                 <form method="POST" action="{{ route('login') }}" style="margin-top: 25px;">
                                     @csrf
@@ -72,11 +72,15 @@
                                             </a>
                                             @endif
                                         </div>
+
+
+
+
                                     </div>
                                 </form>
                             </div>
                         </div>
-                        <div class="col-md-6 bg-login-form-2">
+                        <div class="hidesmall col-md-6 bg-login-form-2">
 
                         </div>
                     </div>

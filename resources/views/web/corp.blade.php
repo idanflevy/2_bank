@@ -35,13 +35,13 @@
                                 <div class="blueFieldTitle">Corporate Governance Framework</div>
                                 <div style="text-align:justify">Corporate Governance provides the structure through which the objectives of the Bank are set, and the means of attaining them and monitoring performance are defined and determined. Strong Corporate Governance requires having a clear and proper decision-making process that ensures the allocation of responsibility, management of conflicts of interests and an adequate internal control framework. It defines the rights of shareholders in addition to the rights and responsibilities attributed to the directors and managers and spells out the rules and procedures for making decisions on corporate affairs.<br></div>
                                 <div style="text-align:justify"><br></div>
-                                <div style="text-align:justify">Fransabank corporate governance framework is set out in the corporate governance code. The code delineates a corporate governance framework in line with the regulatory requirements and international best practices and sets the grounds for other governance policies, charters and codes such as the rights of shareholders’ policy, policy for managing conflicts of interest, disclosure policy, employees’ handbook, etc. All of these are regularly updated to cope with the evolution of the regulatory framework and to best serve the changing needs of stakeholders.</div>
+                                <div style="text-align:justify">MeteorsBank corporate governance framework is set out in the corporate governance code. The code delineates a corporate governance framework in line with the regulatory requirements and international best practices and sets the grounds for other governance policies, charters and codes such as the rights of shareholders’ policy, policy for managing conflicts of interest, disclosure policy, employees’ handbook, etc. All of these are regularly updated to cope with the evolution of the regulatory framework and to best serve the changing needs of stakeholders.</div>
                                 <div style="text-align:justify">&nbsp;<br></div>
                                 <div>
                                     <div class="ms-rteThemeForeColor-2-0"><span style="color:rgb(51, 51, 51);font-size:20px;font-weight:600">Governance Structure</span><br></div>
                                 </div>
                                 <div><br></div>
-                                <div style="text-align:justify">Fransabank governance structure, which aims to provide an efficient framework for the assignment of responsibility and accountability, is designed in a way that facilitates a clearly defined decision-making process. It includes the General Assembly of shareholders; the Board of Directors; the Chairman; the Deputy Chairman; the various committees, control functions; the external auditors; general and senior management and the business and support functions.&nbsp;</div>
+                                <div style="text-align:justify">MeteorsBank governance structure, which aims to provide an efficient framework for the assignment of responsibility and accountability, is designed in a way that facilitates a clearly defined decision-making process. It includes the General Assembly of shareholders; the Board of Directors; the Chairman; the Deputy Chairman; the various committees, control functions; the external auditors; general and senior management and the business and support functions.&nbsp;</div>
                                 <div style="text-align:justify">&ZeroWidthSpace;<br></div>
                                 <div style="text-align:justify"></div>
                                 <div>
@@ -87,7 +87,7 @@
                                 <div><b style="color:rgb(50, 50, 50)"><br></b></div>
                                 <div><b style="color:rgb(50, 50, 50)">Corporate Governance Committee</b><br></div>
                                 <div><br></div>
-                                <div><span style="text-align:justify">The responsibility of the Corporate Governance Committee is to provide oversight of all material corporate governance issues affecting the Bank and its subsidiaries and to ensure that Fransabank corporate governance practices are in line with the regulatory requirements and international best practices.<br></span></div>
+                                <div><span style="text-align:justify">The responsibility of the Corporate Governance Committee is to provide oversight of all material corporate governance issues affecting the Bank and its subsidiaries and to ensure that MeteorsBank corporate governance practices are in line with the regulatory requirements and international best practices.<br></span></div>
                                 <div>
                                     <div><strong><br></strong></div>
                                     <div><strong>Risk Committee</strong><br></div>
@@ -170,7 +170,7 @@
                                             <font color="#323232"><b>Conflicts of Interest</b></font>
                                         </div>
                                         <div><br></div>
-                                        <div>Fransabank has a policy for managing conflicts of interest that sets the ‘tone at the top’ in terms of the principles to abide by to prevent and manage any cases of conflicts of interest.</div>
+                                        <div>MeteorsBank has a policy for managing conflicts of interest that sets the ‘tone at the top’ in terms of the principles to abide by to prevent and manage any cases of conflicts of interest.</div>
                                         <div><br></div>
                                         <div>A conflict of interest is a situation where different parties have interests that conflict with each other. Such conflicts may arise between:<br></div>
                                         <div><br></div>

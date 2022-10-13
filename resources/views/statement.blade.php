@@ -29,7 +29,7 @@
 
 
 
-                        <th scope="col">DATE & TIME</th>
+                        <th scope="col">DATE</th>
                         <th scope="col">AMOUNT</th>
                         <th scope="col">TYPE</th>
                         <th scope="col">DETAILS</th>

@@ -88,10 +88,10 @@ class RegisterController extends Controller
     protected function create(array $data)
     {
 
-        // $newakant = User::orderBy('id', 'desc')->first()->account_number;
-        // $account_number_1 = $newakant + 1;
-        // $account_number = '0000' . $account_number_1;
-        $account_number = '0001001901229114';
+        $newakant = User::orderBy('id', 'desc')->first()->account_number;
+        $account_number_1 = $newakant + 1;
+        $account_number = '0000' . $account_number_1;
+        //$account_number = '0001001901229114';
 
         $fname = $data['firstname'];
         $lname = $data['lastname'];

@@ -8,7 +8,7 @@
 
 
 
-  <title>{{ config('', 'Home - fransabank') }}</title>
+  <title>{{ config('', 'Home - MeteorsBank') }}</title>
 
 
   <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
@@ -24,9 +24,15 @@
 
   <div class="nav-menu">
     <div class="logo1">
-      <a href="/">
-        <img class="nav-menu-img" src="{{asset('/images/fransabanklogo.png')}}" alt="">
-      </a>
+
+      <div>
+        <img class="img1" src="{{asset('/images/newlogo.png')}}" alt="">
+
+      </div>
+
+      <div class="logotext">
+        Meteorsbank
+      </div>
     </div>
     @include('layouts.nav-web')
   </div>

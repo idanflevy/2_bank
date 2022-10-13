@@ -39,8 +39,8 @@
 
                                 <div class="welcome-content">
                                     <div id="ctl00_PlaceHolderMain_ctl01_ctl01_label" style="display:none">Page Content</div>
-                                    <div id="ctl00_PlaceHolderMain_ctl01_ctl01__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_ctl01_label">Fransabank provides a diverse range of corporate banking services and products, tailor-made to suit the needs of its clients.&nbsp;<div><br></div>
-                                        <div>A team of Fransabank specialized professionals, with broad expertise in the different economic sectors, is the best partner to offer financial guidance, recognize client’s business needs and tailor a spectrum of corporate finance services that includes working capital facilities, trade finance services, project financing and long-term loans within the frame of BDL Circulars.</div>
+                                    <div id="ctl00_PlaceHolderMain_ctl01_ctl01__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_ctl01_label">MeteorsBank provides a diverse range of corporate banking services and products, tailor-made to suit the needs of its clients.&nbsp;<div><br></div>
+                                        <div>A team of MeteorsBank specialized professionals, with broad expertise in the different economic sectors, is the best partner to offer financial guidance, recognize client’s business needs and tailor a spectrum of corporate finance services that includes working capital facilities, trade finance services, project financing and long-term loans within the frame of BDL Circulars.</div>
                                         <div><br></div>
                                         <h3><span></span>Corporate financing Services&ZeroWidthSpace;</h3>
                                         <div>•<span style="white-space:pre"> </span>Overdraft Facilities</div>
@@ -147,7 +147,7 @@
 
                                 <div class="welcome-content">
                                     <div id="ctl00_PlaceHolderMain_ctl01_ctl01_label" style="display:none">Page Content</div>
-                                    <div id="ctl00_PlaceHolderMain_ctl01_ctl01__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_ctl01_label"><a href="" target="_blank">Fransa Invest Bank (FIB) &ZeroWidthSpace;</a>is the fully owned investment and private banking subsidiary of Fransabank Group which was established in 2001.<br>
+                                    <div id="ctl00_PlaceHolderMain_ctl01_ctl01__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_ctl01_label"><a href="" target="_blank">Fransa Invest Bank (FIB) &ZeroWidthSpace;</a>is the fully owned investment and private banking subsidiary of MeteorsBank Group which was established in 2001.<br>
                                         <br>
                                         <div class="accordion">
                                             <a class="accquest active">Mission</a>
@@ -166,7 +166,7 @@
                                                 <span class="blueFieldTitle">Advisory</span><br>
                                                 FIB corporate finance advisory encompasses:
                                                 <ul style="margin-top:10px">
-                                                    <li>Mergers &amp; Acquisitions (including those of Fransabank Group)</li>
+                                                    <li>Mergers &amp; Acquisitions (including those of MeteorsBank Group)</li>
                                                     <li>Equity capital markets</li>
                                                     <li>Private placements (local and international)</li>
                                                     <li>Vertical/horizontal expansion (local and international)</li>
@@ -344,11 +344,11 @@
                                     <div id="ctl00_PlaceHolderMain_ctl01_ctl01_label" style="display:none">Page Content</div>
                                     <div id="ctl00_PlaceHolderMain_ctl01_ctl01__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_ctl01_label">
                                         <div>
-                                            <div>SMEs are firms whose financial requirements are too large for microfinance, but are too small to be effectively served by corporate banking models. SMEs represent a large and economically important sector in nearly every country in the world and Fransabank has long committed to serve and&nbsp; support these productive sectors of Lebanon’s economy.&nbsp;</div>
+                                            <div>SMEs are firms whose financial requirements are too large for microfinance, but are too small to be effectively served by corporate banking models. SMEs represent a large and economically important sector in nearly every country in the world and MeteorsBank has long committed to serve and&nbsp; support these productive sectors of Lebanon’s economy.&nbsp;</div>
                                         </div>
                                         <div><br></div>
                                         <div>
-                                            <h3>Fransabank offers currently comprehensive facilities for its customers that include:&ZeroWidthSpace;</h3>
+                                            <h3>MeteorsBank offers currently comprehensive facilities for its customers that include:&ZeroWidthSpace;</h3>
                                             <ul>
                                                 <li>Overdraft facilities: Granted to finance working capital needs for clients (individuals, establishments and companies) on case by case basis.&nbsp;<br></li>
                                                 <li>Term loan : Used to reschedule &amp;/or monitor an existing facility/loan.<br></li>
@@ -481,18 +481,18 @@
                             <div class="col-md-4">
                                 <h3><strong>Accounts</strong></h3>
                                 <h4>Salary Account</h4>
-                                <p>With Fransabank’s Salary Account, access your salary 24/7
+                                <p>With MeteorsBank’s Salary Account, access your salary 24/7
                                     in a convenient and easy manner!&ZeroWidthSpace;Benefit from a set of
                                     facilities and free services coupled with added value
                                     to your salary!... </p>
                                 <hr>
                                 <h4>Checking Account</h4>
-                                <p> Fransabank offers its Checking Account for all individuals,
+                                <p> MeteorsBank offers its Checking Account for all individuals,
                                     Companies and Non-Profit Associations What do you get?</p>
                                 <hr>
                                 <h4>Current Account</h4>
                                 <p>
-                                    Fransabank offers its Current Account for all Physical and Moral Individuals who wish to open a current account that allows debit and credit operations What... Read more</p>
+                                    MeteorsBank offers its Current Account for all Physical and Moral Individuals who wish to open a current account that allows debit and credit operations What... Read more</p>
                                 <hr>
                                 <h4>Fresh Funds Account</h4>
                                 <p> The Fresh Funds Account is tailored for individuals &amp; companies who receive international wire transfers or deposit cash in foreign currencies with features that were customized to provide a smooth... </p>
@@ -507,14 +507,14 @@
                                     Do you wish to stay in control of your money and make easy and safe transactions without having to carry around cash? </p>
                                 <hr>
                                 <h4>Credit Cards</h4>
-                                <p> Use your Fransabank Card to manage and control your business and employees' work-related expenses and benefit at the same time from valuable features, useful business tools and choices of rewards.</p>
+                                <p> Use your MeteorsBank Card to manage and control your business and employees' work-related expenses and benefit at the same time from valuable features, useful business tools and choices of rewards.</p>
                                 <hr>
                                 <h4>Elite Credit Cards</h4>
                                 <p>
-                                    Fransabank Card is the defining purchasing tool for premium cardholders looking for worldwide acceptance, excellent service and access to remarkable benefits. If your passion is savouring life's pleasures, this card is up to the task. </p>
+                                    MeteorsBank Card is the defining purchasing tool for premium cardholders looking for worldwide acceptance, excellent service and access to remarkable benefits. If your passion is savouring life's pleasures, this card is up to the task. </p>
                                 <hr>
                                 <h4>Cash Back Reward Program</h4>
-                                <p> With Fransabank you can benefit from a loyalty program that offers you cash rewards: The Cash Back Reward Program. </p>
+                                <p> With MeteorsBank you can benefit from a loyalty program that offers you cash rewards: The Cash Back Reward Program. </p>
 
                             </div>
                             <div class="col-md-4">
