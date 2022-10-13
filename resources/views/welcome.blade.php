@@ -23,15 +23,23 @@
 
 
 
-
-
     <div class="nav-menu">
         <div class="logo1">
-            <a href="/">
-                <img class="nav-menu-img" src="{{asset('/images/fransabanklogo.png')}}" alt="">
-            </a>
+
+            <div>
+                <img class="img1" src="{{asset('/images/newlogo.png')}}" alt="">
+
+            </div>
+
+            <div class="logotext">
+                Meteors
+            </div>
         </div>
+
         @include('layouts.nav-web')
+
+
+
 
 
 
@@ -41,12 +49,10 @@
 
     @include('layouts.nav-web2')
 
-
-
-    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div id="carouselExampleControls" class="hidesmall carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-
+                <div style="position: absolute;"></div>
                 <img class="d-block w-100" src="{{asset('/images/t345.jpg')}}" alt="First slide">
             </div>
             <div class="carousel-item">
@@ -128,18 +134,18 @@
                         <div class="col-md-4">
                             <h3><strong>Accounts</strong></h3>
                             <h4>Salary Account</h4>
-                            <p>With Fransabank’s Salary Account, access your salary 24/7
+                            <p>With Meteorsbank's Salary Account, access your salary 24/7
                                 in a convenient and easy manner!​Benefit from a set of
                                 facilities and free services coupled with added value
                                 to your salary!... </p>
                             <hr>
                             <h4>Checking Account</h4>
-                            <p> Fransabank offers its Checking Account for all individuals,
+                            <p> Meteorsnank offers its Checking Account for all individuals,
                                 Companies and Non-Profit Associations What do you get?</p>
                             <hr>
                             <h4>Current Account</h4>
                             <p>
-                                Fransabank offers its Current Account for all Physical and Moral Individuals who wish to open a current account that allows debit and credit operations What... Read more</p>
+                                Meteorsbank offers its Current Account for all Physical and Moral Individuals who wish to open a current account that allows debit and credit operations What... Read more</p>
                             <hr>
                             <h4>Fresh Funds Account</h4>
                             <p> The Fresh Funds Account is tailored for individuals & companies who receive international wire transfers or deposit cash in foreign currencies with features that were customized to provide a smooth... </p>
@@ -161,21 +167,21 @@
                                 Fransabank Card is the defining purchasing tool for premium cardholders looking for worldwide acceptance, excellent service and access to remarkable benefits. If your passion is savouring life's pleasures, this card is up to the task. </p>
                             <hr>
                             <h4>Cash Back Reward Program</h4>
-                            <p> With Fransabank you can benefit from a loyalty program that offers you cash rewards: The Cash Back Reward Program. </p>
+                            <p> With Meteorsbank you can benefit from a loyalty program that offers you cash rewards: The Cash Back Reward Program. </p>
 
                         </div>
                         <div class="col-md-4">
                             <h3><strong>Insurance & Savings</strong></h3>
-                            <h4>Fransajeunesse – Education Saving & Insurance Plan</h4>
+                            <h4>Meteorsjeunesse – Education Saving & Insurance Plan</h4>
                             <p> Are you looking to secure your children's education with a saving plan that offers you the best return on investement?</p>
                             <hr>
-                            <h4>Fransaplus: Life Insurance Plan with Accidental Coverage</h4>
+                            <h4>Meteorsplus: Life Insurance Plan with Accidental Coverage</h4>
                             <p>Are you looking to secure yourself and your family from any incident you may go through in life? </p>
                             <hr>
-                            <h4>Fransavenir - Retirement Saving Plan</h4>
+                            <h4>Meteorsvenir - Retirement Saving Plan</h4>
                             <p>Who said income has to end when retirement begins? </p>
                             <hr>
-                            <h4>Fransavie – Life Insurance Plan</h4>
+                            <h4>Meteorsvie – Life Insurance Plan</h4>
                             <p>Sometimes in life, you may encounter events and incidents that create unanticipated results and unexpected challenges </p>
                         </div>
                     </div>

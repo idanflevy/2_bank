@@ -58,26 +58,12 @@ Route::namespace('App\\Http\\Controllers\\API\V1')->group(function () {
     Route::get('profile', 'ProfileController@profile');
     Route::put('profile', 'ProfileController@updateProfile');
     Route::post('change-password', 'ProfileController@changePassword');
-    Route::get('tag/list', 'TagController@list');
-    Route::get('category/list', 'CategoryController@list');
-    Route::post('product/upload', 'ProductController@upload');
-
-    Route::post('shipschedule', 'ShipscheduleController@store');
-    Route::get('shipschedule', 'ShipscheduleController@index');
-    Route::get('shipschedule_one', 'All_ScheduleController@index_one');
-    Route::put("shipschedule/{id}", 'ShipscheduleController@update');
-    Route::delete('shipschedule/{id}', 'ShipscheduleController@destroy');
 
 
-    Route::post('courier', 'CourierController@store');
-    Route::get('courier', 'CourierController@index');
-    Route::put("courier/{id}", 'CourierController@update');
-    Route::delete('courier/{id}', 'CourierController@destroy');
 
-    Route::post('tracking', 'TrackingController@store');
-    Route::get('tracking', 'TrackingController@index');
-    Route::put("tracking/{id}", 'TrackingController@update');
-    Route::delete('tracking/{id}', 'TrackingController@destroy');
+
+
+
 
 
 

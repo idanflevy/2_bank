@@ -67,8 +67,7 @@ Route::get('/email', function () {
 //     return view('printsearch');
 // });
 
-Route::get('/search', [SearchController::class, 'search'])->name('web.search');
-Route::get('/printsearch', [SearchController::class, 'printsearch'])->name('web-1.show');
+
 
 
 

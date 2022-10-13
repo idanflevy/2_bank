@@ -1,6 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montez&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200&display=swap');
 
 body{
     font-family: 'Roboto', sans-serif; 
@@ -141,8 +141,20 @@ height: 100vh;
 .logo1{
     margin: -5px;
     margin-left: 150px;
+    display: flex;
+    flex-direction: row;
    
     
+}
+
+.logotext{
+color: white;
+margin-top: 10px;
+font-family: 'Mulish', sans-serif;
+font-weight: bold;
+font-size: 26pt;
+
+
 }
 .items1{
     margin: 25px;
@@ -234,11 +246,6 @@ height: 100vh;
 
 
 
-.img-txt{
-    text-align: left;
-    font-size:20px;
-    margin-top: -20px;
-}
 
 .img-txt-1{
     text-align: left;
@@ -340,6 +347,20 @@ padding: 4rem 2rem;
     display:none ;
 }
 
+.img1 {
+    height: 9.8vh;
+    margin-top: 3px;
+}
+
+
+.img-txt{
+    text-align: left;
+    font-size:20px;
+    margin-top: -20px;
+}
+
+
+
 
 
 @media only screen and (max-width: 600px) {
@@ -348,6 +369,19 @@ padding: 4rem 2rem;
       margin-top: 10px;
      
         }
+
+        .logotext{
+  
+            margin-top: 5px;
+          
+            font-size: 18pt;
+            
+            
+            }
+
+            .hidesmall{
+                display: none;
+            }
 
         .items1{
             display: none;
@@ -370,8 +404,11 @@ padding: 4rem 2rem;
         }
 
         .nav-menu-img{
-            width: 50vw;
+            height: 9.8vh;
+            margin-top: 3px;
         }
+
+       
 
 
   }
