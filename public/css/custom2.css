@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montez&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700&display=swap');
+
+
+body{
+    font-family: 'Roboto', sans-serif; 
+}
+
+.imgg{
+width: 15vw;
+}
+
+.sdebar p{
+    color: white;
+}
+
+.sdebar p:hover {
+   color: yellow;
+  }
+
+  .navbaa{
+    background-color: #114382;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 1px;
+
+  }
+
+  .account{
+    border-radius: 20px;
+
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(51,58,218,1) 29%, rgba(0,212,255,1) 100%); 
+  
+  }
+
+  .account1{
+    border-radius: 20px;
+    background: linear-gradient(90deg, rgba(240,30,44,1) 41%, rgba(233,172,172,1) 100%);
+
+  }
+
+
