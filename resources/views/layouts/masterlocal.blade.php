@@ -75,14 +75,14 @@
     <aside class="main-sidebar  elevation-2 navbaa">
       <!-- Brand Logo -->
       <router-link to="/dashboard" class="brand-link">
-        <img src="{{ asset('/images/fransabanklogo.jpg') }}" alt="The Logo" class="imgg " style="opacity: .8">
+
         <span class="brand-text font-weight-light">
-          <H1 style="visibility: hidden;"> FI</H1>
+          <h3 style="margin-left:20px; color:white;"> Meteorsbank</h3>
         </span>
       </router-link>
 
       <!-- Sidebar -->
-      <div class="sidebar" style="margin-top: -100px;">
+      <div class="sidebar" style="margin-top: -70px;">
         <!-- Sidebar user panel (optional) -->
         <router-link to="/profile">
           <div class="user-panel mt-3 pb-3 mb-3 d-flex">
