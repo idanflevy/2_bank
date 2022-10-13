@@ -8,7 +8,7 @@
 
 
 
-    <title>{{ config('', 'Home - fransabank') }}</title>
+    <title>{{ config('', 'Home - MeteorsBank') }}</title>
 
 
     <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
@@ -160,11 +160,11 @@
                                 Do you wish to stay in control of your money and make easy and safe transactions without having to carry around cash? </p>
                             <hr>
                             <h4>Credit Cards</h4>
-                            <p> Use your Fransabank Card to manage and control your business and employees' work-related expenses and benefit at the same time from valuable features, useful business tools and choices of rewards.</p>
+                            <p> Use your MeteorsBank Card to manage and control your business and employees' work-related expenses and benefit at the same time from valuable features, useful business tools and choices of rewards.</p>
                             <hr>
                             <h4>Elite Credit Cards</h4>
                             <p>
-                                Fransabank Card is the defining purchasing tool for premium cardholders looking for worldwide acceptance, excellent service and access to remarkable benefits. If your passion is savouring life's pleasures, this card is up to the task. </p>
+                                MeteorsBank Card is the defining purchasing tool for premium cardholders looking for worldwide acceptance, excellent service and access to remarkable benefits. If your passion is savouring life's pleasures, this card is up to the task. </p>
                             <hr>
                             <h4>Cash Back Reward Program</h4>
                             <p> With Meteorsbank you can benefit from a loyalty program that offers you cash rewards: The Cash Back Reward Program. </p>
@@ -323,7 +323,7 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <p style="font-size: 18px;color:white;" class="">If you’re looking for any information about
-                                    Fransabank products and services or would like to reach
+                                    MeteorsBank products and services or would like to reach
                                     us, our agents are ready to get your queries answered.</p>
                             </div>
                             <div class="col-md-4">
@@ -400,7 +400,7 @@
 
 
         <!-- Copyright -->
-        <div class=" footer-copyright text-center py-3" style="color: #b2b4b7;">Copyright © 2021 Fransabank. All rights reserved <br />
+        <div class=" footer-copyright text-center py-3" style="color: #b2b4b7;">Copyright © 2021 MeteorsBank. All rights reserved <br />
             No.1 on the list of banks. BDL Authorization No. 11/438 dated 21.09.2006. Designed and developed by Borninteractive
             <a href="/"></a>
         </div>
