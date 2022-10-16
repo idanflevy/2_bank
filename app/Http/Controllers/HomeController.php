@@ -218,7 +218,7 @@ class HomeController extends Controller
     public function saveTransfer(Request $request)
     {
         $message = [
-            'min' => 'The :attribute must be above :min $'
+            'min' => 'The :attribute must be above :min'
         ];
         $validator = Validator::make($request->all(), [
             // 'email' => 'required|string|email|max:255',
@@ -300,7 +300,7 @@ class HomeController extends Controller
         $creditTransfer = $transfer->where('transferTo', Auth::user()->id);
         foreach ($creditTransfer as $ct) {
             $balence += $ct->amount;
-            $user = User::find($ct->transferTo);
+            $user = User::find($ct->transferFrom);
             $statement[] = [
                 'datetime' => $ct->fkdate,
                 'amount' => number_format($ct->amount, 2),
@@ -349,6 +349,9 @@ class HomeController extends Controller
     }
 
 
+    //new transfer
+
+
     public function statement()
     {
 
@@ -387,7 +390,7 @@ class HomeController extends Controller
         $creditTransfer = $transfer->where('transferTo', Auth::user()->id);
         foreach ($creditTransfer as $ct) {
             $balence += (float)$ct->amount;
-            $user = User::find($ct->transferTo);
+            $user = User::find($ct->transferFrom);
             $statement[] = [
                 //'datetime' => $ct->created_at,
                 'datetime' => $ct->fkdate,

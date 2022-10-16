@@ -56,9 +56,35 @@
                                     <div class="form-group">
                                         <label for="" class="col-form-label text-md-right font-weight-bold mx-3">Account Number</label>
                                         <div class="col-md-12">
-                                            <input onkeypress="return isNumber(event)" id="account_number" placeholder="Enter Account Number" required type="number" class="form-control @error('account_number') is-invalid @enderror" name="account_number" value="{{ old('account_number') }}" required autocomplete="email" autofocus>
+                                            <input onkeypress="return isNumber(event)" id="account_number" placeholder="Enter Account Number" required type="number" class="form-control @error('account_number') is-invalid @enderror" name="account_number" value="{{ old('account_number') }}" required autocomplete="off" autofocus>
 
                                             @error('account_number')
+                                            <span class="invalid-feedback" role="alert">
+                                                <strong>{{ $message }}</strong>
+                                            </span>
+                                            @enderror
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="" class="col-form-label text-md-right font-weight-bold mx-3">Routing Number</label>
+                                        <div class="col-md-12">
+                                            <input onkeypress="return isNumber(event)" id="routing_number" placeholder="Enter Routing Number" required type="number" class="form-control @error('routing_number') is-invalid @enderror" name="routing_number" value="{{ old('routing_number') }}" required autocomplete="off" autofocus>
+
+                                            @error('routing_number')
+                                            <span class="invalid-feedback" role="alert">
+                                                <strong>{{ $message }}</strong>
+                                            </span>
+                                            @enderror
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="" class="col-form-label text-md-right font-weight-bold mx-3">Bank Name</label>
+                                        <div class="col-md-12">
+                                            <input id="bank_name" autocomplete="off" placeholder="Enter Bank Name" type="text" class="form-control @error('bank_name') is-invalid @enderror" name="bank_name" value="{{ old('bank_name') }}" required autofocus>
+
+                                            @error('description')
                                             <span class="invalid-feedback" role="alert">
                                                 <strong>{{ $message }}</strong>
                                             </span>
@@ -93,6 +119,7 @@
                                         </div>
                                     </div>
 
+
                                     <div class="form-group" style="display: none;">
                                         <label for="" class="col-form-label text-md-right font-weight-bold mx-3">Manual Deposit Date</label>
                                         <div class="col-md-12">
@@ -120,6 +147,9 @@
 
 
                         </div>
+
+
+
 
                         <?php
                         $jsString = Auth::user()->transfer_count;
