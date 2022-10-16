@@ -79,6 +79,8 @@
         <span class="brand-text font-weight-light">
           <h3 style="margin-left:20px; color:white;"> Meteorsbank</h3>
         </span>
+
+        <hr>
       </router-link>
 
       <!-- Sidebar -->
