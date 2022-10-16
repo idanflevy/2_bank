@@ -8,7 +8,7 @@
 
   <meta name="csrf-token" content="{{ csrf_token() }}">
 
-  <title>{{ config('app.name', 'Smart Terminal') }}</title>
+  <title>{{ config('app.name', 'meteorsbank') }}</title>
 
 
   <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
